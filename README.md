@@ -1,6 +1,6 @@
 # AccuNews - Your Comprehensive News Aggregator
 
-![AccuNews](https://github.com/AhmedRaashwan/AccuNews/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![AccuNews](https://github.com/AhmedRaashwan/AccuNews/blob/f0467d58bddb9ce4fc8a34b0662aede27263a9fa/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png)
 
 ## Introduction
 
