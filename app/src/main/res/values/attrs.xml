@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_url" translatable="false">https://newsapi.org/v2/</string>
+    <string name="apikey" translatable="false">85810adc7b2946d59f5b1d5240377e80</string>
+    <string name="alternative_apikey" translatable="false">1ba6f7b90a6d47dc89127b1b5788608a</string>
+</resources>

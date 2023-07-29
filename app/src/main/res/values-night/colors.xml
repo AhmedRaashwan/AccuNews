@@ -1,0 +1,30 @@
+<!-- res/values/themes.xml (dark mode) -->
+<resources>
+    <color name="colorPrimary">#00796B</color>        <!-- Darker shade of teal -->
+    <color name="colorPrimaryDark">#005A4F</color>    <!-- Darker shade of teal for status bar -->
+    <color name="colorAccent">#1E88E5</color>         <!-- Darker shade of blue for accents -->
+    <color name="transparent">#00000000</color>       <!-- Fully transparent for dark mode -->
+
+    <color name="app_background">#121212</color>      <!-- Darker gray for app background -->
+    <color name="card_background">#1E1E1E
+    </color>     <!-- Darker shade of gray for card background -->
+    <color name="setting_background">#0F221F</color>
+    <color name="setting_Button_background">#0F655A</color>
+
+
+    <color name="primary_text">#FFFFFF</color>        <!-- White for primary text -->
+    <color name="secondary_text">#B0B0B0
+    </color>      <!-- Lighter shade of gray for secondary text -->
+    <color name="light_text_color">#00796B
+    </color>    <!-- Darker shade of teal for light text elements -->
+
+    <color name="white">#FFFFFF</color>              <!-- White for dark mode -->
+    <color name="black">#000000</color>              <!-- Black for dark mode -->
+
+    <color name="filter_item_color">#292929</color>   <!-- Darker shade of gray for filter items -->
+    <color name="list_item_divider">#1E1E1E
+    </color>   <!-- Darker shade of gray for list item dividers -->
+
+    <color name="status_opened">#4CAF50</color>       <!-- Green for "opened" status -->
+    <color name="status_closed">#FF5252</color>       <!-- Red for "closed" status -->
+</resources>
