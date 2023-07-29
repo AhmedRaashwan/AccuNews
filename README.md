@@ -18,7 +18,7 @@ Welcome to AccuNews, the ultimate news application that empowers you with the la
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/AhmedRaashwan/AccuNews/blob/master/app/src/main/res/drawable/Screenshots.jpg)
+![Screenshot 1](https://github.com/AhmedRaashwan/AccuNews/blob/master/app/src/main/res/drawable/screenshots.jpg)
 
 
 ## Getting Started
